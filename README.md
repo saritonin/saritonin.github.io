@@ -5,4 +5,4 @@
 - 2023-04-26 New Trends in Informatics Research
    - [A unified data model for K-12 public financing in New York State](https://github.com/saritonin/nys-k12-financing)
    - [Introduction to Open Book NY [PDF]](http://github.sarahlauser.com/presentations/Introduction_to_Open_Book.pdf)
-   - [Declutter your mind](http://github.sarahlauser.com/presentations/declutter-your-mind/)
+   - [Declutter your mind](https://github.com/saritonin/declutter-your-mind/)
