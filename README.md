@@ -21,6 +21,13 @@
           alt="Zenodo icon"/>
     Zenodo open data repository
 </a>
+<br />
+<a href="https://www.researchgate.net/profile/Sarah-Lauser">
+   <img src="https://www.researchgate.net/favicon.ico"
+        style="width: 1em; margin-inline-start: 0.5em" 
+        alt="ResearchGate icon"/>
+   ResearchGate
+</a>
 
 # GitHub repositories
 ## 2023
